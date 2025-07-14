@@ -42,7 +42,7 @@ For commercial deployments, custom branding, or tailored features, you will soon
 ### User-agent and Fingerprints
 | User-Agent and Fingerprints | Values                                |                           
 |-----------------------------|---------------------------------------|
-| `User-agent`                |                 `ImunexBrowser/1.0.2` |  
+| `User-agent:`               |                 `ImunexBrowser/1.0.2` |  
 | `JA4 fingerprint:`          |`t13d1316h2_f4ad024020fe_0467e9cfe63c` |
 | `PeetPrint fingerprint`:    |    `2008c082cd02f2b26427c26a024c7ec6` |
 | `Akamai fingerprint`:       |    `52d84b11737d980aef856699f885ca86` |
@@ -151,12 +151,12 @@ and more stable way for all users to experience the web.
 The project's web site is https://www.chromium.org.
 
 To check out the source code locally, don't use `git clone`! Instead,
-follow [the instructions on how to get the code](docs/get_the_code.md).
+follow the instructions on [how to get the code] (<a href="https://github.com/chromium/chromium/blob/main/docs/get_the_code.md">docs/get_the_code.md</a>).
 
-Documentation in the source is rooted in [docs/README.md](docs/README.md).
+Documentation in the source is rooted in (https://github.com/chromium/chromium/blob/main/docs/README.md)(docs/README.md).
 
 Learn how to [Get Around the Chromium Source Code Directory
-Structure](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code).
+Structure] (https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code).
 
 For historical reasons, there are some small top level directories. Now the
 guidance is that new top level directories are for product (e.g. Chrome,
@@ -164,15 +164,3 @@ Android WebView, Ash). Even if these products have multiple executables, the
 code should be in subdirectories of the product.
 
 If you found a bug, please file it at https://crbug.com/new.
-
-
-## Eyeo Chromium SDK
-
-Eyeo Chromium SDK is a fork of the Chromium project that
-integrates ad-filtering capabilities.  A big part of the functionality is
-implemented inside a component, to simplify the integration with other
-modifications to the browser.
-
-The [component folder](components/adblock) contains most of the source code,
-as well as the changelog, license and technical documentation about
-architecture and integration steps.
