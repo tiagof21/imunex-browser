@@ -12,6 +12,8 @@ You should consider using Imunex Browser to: "<i>Make Chromium Great Again!</i>"
 
 `Imunex Browser` is free for personal use. It is not an open source project. 
 
+`Imunex Browser` is not designed for developers/sysops due to it's default security concept, missing tools like Inspect/DevTools.
+
 <div align="center">
 <img src="images/ImunexBrowser_Installer_macOS.png" alt="Imunex Browser Installer for macOS" width="720px"/>
 </div> 
