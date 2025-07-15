@@ -50,8 +50,9 @@ For commercial deployments, custom branding, or tailored features, you will soon
 |-----------------------------|---------------------------------------|
 | `User-agent:`               |                 `ImunexBrowser/1.0.2` |
 | `JA4 fingerprint:`          |`t13d1316h2_f4ad024020fe_0467e9cfe63c` |
-|                             |                                       |
+|                             |`t13d1315h2_f4ad024020fe_5ec6092e2d4d` |
 | `PeetPrint fingerprint`:    |    `2008c082cd02f2b26427c26a024c7ec6` |
+|                             |    `1d8b3a3b02c4ac13265c191d4be41932` |
 | `Akamai fingerprint`:       |    `52d84b11737d980aef856699f885ca86` |
 -----------------------------------------------------------------------
 
@@ -108,7 +109,8 @@ To checksum the Release, use the SHA256 hashes provided.
 | Safe Browsing                      |    ✅     |
 | Password Manager                   |    ❌     |
 | Payment methods                    |    ❌     |
-| AutoFill                           |    ❌     |
+| Autofill with AI opt-in            |    ❌     |
+| AutofillAiWithDataSchema           |    ❌     |
 | Developer Tools                    |    ❌     |
 | ImportAutofillFormData             |    ❌     |
 | RemoteDebugging                    |    ❌     |
