@@ -14,6 +14,10 @@ You should consider using Imunex Browser to: "<i>Make Chromium Great Again!</i>"
 
 `Imunex Browser` is not designed for developers/sysops due to it's default security concept, missing tools like Inspect/DevTools. For Developers I'd recommend using [Aloha Browser] or [Chromium Canary] or you can keep using your favorite one.
 
+Don't expect to see any visual or exclusive feature from `Imunex Browser`, while 99% of the hardening is made under the hood. Actually, you will probably feel less trackers/ads annoying you while browsing the web and slitly more responsive when loading web pages. You can test the browser perfomance on https://www.browserbench.org . 
+
+Optionally you can try one of our favorites background/themes (yet to be published).  
+
 <div align="center">
 <img src="images/ImunexBrowser_Installer_macOS.png" alt="Imunex Browser Installer for macOS" width="720px"/>
 </div> 
