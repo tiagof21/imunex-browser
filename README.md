@@ -28,8 +28,14 @@ This approach also extends to payment methods—which are disabled by default—
 
 The Google Safe Browsing feature remains enabled by default to protect users from malicious sites and phishing attacks. However, because it involves the use of hashed data, users who prioritize maximum privacy may choose to disable it via the browser's Settings page.
 
+<div align="center">
+<img src="images/ImunexBrowser_macOS.png" alt="Imunex Browser Installer for macOS"/>
+</div> 
+
 🏢 Imunex Browser Enterprise
 `Imunex Browser Enterprise` offers multiple levels of advanced customization, far exceeding the privacy and security capabilities of the personal edition. In addition to enforcing strict privacy controls, it introduces powerful enterprise-grade security features aligned with the latest cybersecurity standards.
+
+You company can customize a wide range of features, from visual aspects to trusted certificate/devices, directory integration, compliance and content analysis.
 
 Organizations can configure over 100 policy-based controls, deploy custom branding, and create a web browsing environment tailored to their specific operational and compliance needs. This level of control represents a significant advancement in managing corporate web access and security.
 
