@@ -52,15 +52,26 @@ For commercial deployments, custom branding, or tailored features, you will soon
 > Please read: https://www.chromium.org/Home/chromium-privacy/
 
 ### User-agent and Fingerprints
-| User-Agent and Fingerprints | Values                                |                     
-|-----------------------------|---------------------------------------|
-| `User-agent:`               |                 `ImunexBrowser/1.0.2` |
-| `JA4 fingerprint:`          |`t13d1316h2_f4ad024020fe_0467e9cfe63c` |
-|                             |`t13d1315h2_f4ad024020fe_5ec6092e2d4d` |
-| `PeetPrint fingerprint`:    |    `2008c082cd02f2b26427c26a024c7ec6` |
-|                             |    `1d8b3a3b02c4ac13265c191d4be41932` |
-| `Akamai fingerprint`:       |    `52d84b11737d980aef856699f885ca86` |
------------------------------------------------------------------------
+| User-Agent and Fingerprints | Values                                                  |                     
+|-----------------------------|---------------------------------------------------------|
+| `User-agent:`               |                                   `ImunexBrowser/1.0.2` |
+|                             |                                                         |
+| `JA4 fingerprint:`          |                  `t13d1316h2_f4ad024020fe_0467e9cfe63c` |
+|                             |                  `t13d1315h2_f4ad024020fe_5ec6092e2d4d` |
+|                             |                  `t13d1517h2_8daaf6152771_7e51fdad25f2` |
+|                             |                  `t13d1517h2_8daaf6152771_46b8896bec77` |
+|                             |                                                         |
+| `JA4H fingerprint:`         |   `ge11nr19enus_1a9a86a94233_000000000000_e3b0c44298fc` |
+|                             |  ``ge11cr19enus_1a9a86a94233_9a10d4221160_a5d0f178d304` |
+|                             |   `ge11cr19enus_1a9a86a94233_9a10d4221160_43cb90553126` |
+|                             |                                                         | 
+| `PeetPrint fingerprint`:    |                      `2008c082cd02f2b26427c26a024c7ec6` |
+|                             |                      `1d8b3a3b02c4ac13265c191d4be41932` |
+|                             |                      `1d4ffe9b0e34acac0bd883fa7f79d7b5` |  
+|                             |                      `c40650254882179bbf43bc623ad0afe5` | 
+|                             |                                                         |            
+| `Akamai fingerprint`:       |                      `52d84b11737d980aef856699f885ca86` |
+-----------------------------------------------------------------------------------------
 
 ## Supported OS / Architectures / Tested On:
 Linux *Debian 12* (x86_64) / MS Windows 11 (64-bit) (x86_64) / Apple macOS Sequoia (ARM64)
