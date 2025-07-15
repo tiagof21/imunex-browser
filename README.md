@@ -12,7 +12,7 @@ You should consider using Imunex Browser to: "<i>Make Chromium Great Again!</i>"
 
 `Imunex Browser` is free for personal use. It is not an open source project. 
 
-`Imunex Browser` is not designed for developers/sysops due to it's default security concept, missing tools like Inspect/DevTools.
+`Imunex Browser` is not designed for developers/sysops due to it's default security concept, missing tools like Inspect/DevTools. For Developers I'd recommend using [Aloha Browser] or [Chromium Canary] or you can keep using your favorite one.
 
 <div align="center">
 <img src="images/ImunexBrowser_Installer_macOS.png" alt="Imunex Browser Installer for macOS" width="720px"/>
@@ -42,17 +42,25 @@ For commercial deployments, custom branding, or tailored features, you will soon
 > Please read: https://www.chromium.org/Home/chromium-privacy/
 
 ### User-agent and Fingerprints
-| User-Agent and Fingerprints | Values                                |                           
+| User-Agent and Fingerprints | Values                                |                     
 |-----------------------------|---------------------------------------|
-| `User-agent:`               |                 `ImunexBrowser/1.0.2` |  
+| `User-agent:`               |                 `ImunexBrowser/1.0.2` |
 | `JA4 fingerprint:`          |`t13d1316h2_f4ad024020fe_0467e9cfe63c` |
+|                             |                                       |
 | `PeetPrint fingerprint`:    |    `2008c082cd02f2b26427c26a024c7ec6` |
 | `Akamai fingerprint`:       |    `52d84b11737d980aef856699f885ca86` |
 -----------------------------------------------------------------------
 
-
 ## Supported OS / Architectures / Tested On:
-Linux *Debian 12* (x86_64) / MS Windows 11 (x86_64) / Apple macOS Sequoia (ARM64)
+Linux *Debian 12* (x86_64) / MS Windows 11 (64-bit) (x86_64) / Apple macOS Sequoia (ARM64)
+
+### Imunex 1.0.2 Releases Chromium base
+| Chromium branch                            | OS/Architecture             |
+|--------------------------------------------|-----------------------------|
+| `Version 139.0.7213.0 (Dev Channel)`       |             `macOS (arm64)` |
+| `Version 140.0.7272.0 (Dev Channel)`       |  `Linux Debian 12 (x86_64)` |
+| `Version 140.0.7290.0 (Release Candidate)` |       `MS Windows (x86_64)` |
+----------------------------------------------------------------------------
 
 ## Apple Notarization for macOS: 
 
@@ -144,6 +152,15 @@ Thank you!
 browser@imunex.ai
 https://imunex.ai
 ```
+
+## MISC
+> `As any binary file the releases of Imunex Browser are not reproducible. Binary installers inherently embed build‐specific metadata—timestamps, compiler and linker 
+> paths, file‐order in archives, compression headers, GUIDs, and code‐signing signatures—that vary with each build environment or invocation. Because these values differ > even when the source is identical, the resulting installer binaries cannot be reproduced bit-for-bit.`
+
+## Motivation and Future work
+Imunex Browser was motivated by a series of well-known and unknown web browser's, but this is a looong story. 
+I am working on a exclusive feature for Imunex Browser for macOS.
+
 
 # ![Logo](https://github.com/chromium/chromium/blob/main/chrome/app/theme/chromium/product_logo_64.png) About Chromium
 
