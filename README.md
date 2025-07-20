@@ -48,7 +48,7 @@ Organizations can configure over 100 policy-based controls, deploy custom brandi
 As a Google Partner Advantage member, we are also able to integrate other Google Cloud solutions, providing a unified, high-assurance cybersecurity approach through Chrome Enterprise and related tools. This enhances data protection and user privacy across your company’s digital environment.
 
 📦 Enterprise Deployment & Custom Services
-For commercial deployments, custom branding or tailored features, you will soon be able to Request a Service through the Imunex Browser Enterprise GitHub repository (coming soon). Until this you can contact directly by e-mail at: browser@imunex.ai
+For commercial deployments, custom branding or tailored features, you will soon be able to Request a Service through the `Imunex Browser Enterprise` GitHub repository (coming soon). Until this you can contact directly by e-mail at: browser@imunex.ai
 
 > Disclaimer: `Imunex Browser` was designed for my personal use, as well as, for my personal researches on TLS and Fingerprinting.
 > Use of this tool is at your own risk. You assume full legal liability for its use, and the original author expressly disclaims any and all responsibility.
@@ -177,7 +177,7 @@ If you want to share ideas, request features or request a feature removal let us
 
 ## Sponsors & Donation
 
-`Imunex Browser` is sponsored by Rezolnet Soluções em Informática Ltda.
+`Imunex Browser` is sponsored by Rezolvnet Soluções em Informática Ltda.
 
 <div align="center">
 <img src="images/logo_rezolvnet.png" alt="Rezolvnet Logo" width="120px" />
@@ -210,7 +210,7 @@ https://imunex.ai
 > paths, file‐order in archives, compression headers, GUIDs, and code‐signing signatures—that vary with each build environment or invocation. Because these values differ > even when the source is identical, the resulting installer binaries cannot be reproduced bit-for-bit.`
 
 ## Motivation and Future work
-Imunex Browser was motivated by a series of well-known and unknown web browser's, but this is a looong story. 
+`Imunex Browser` was motivated by a series of well-known and unknown web browser's, but this is a looong story. 
 I am working on a new Imunex proprietary feature for `Imunex Browser Enterprise` for macOS.
 
 
